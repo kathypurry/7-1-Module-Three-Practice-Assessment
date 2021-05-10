@@ -3,8 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div className="app">
+      <navbar></navbar>
       <main>
-        <h1>Hello, world!</h1>
+        <h1>Welcome to My Pokemon App!</h1>
       </main>
     </div>
   );
